@@ -1,0 +1,5 @@
+RELATÓRIO DE MÉTRICAS DOS AGENTES
+================================================================================
+[A-Estrela (Heurístico)] Sucesso: 92.94% | Atropelamento: 1.36% | Colisão: 5.7% | Timeout: 0.0% | Passos: 18.28 | Recompensa: 69.54
+[Q-Learning] Sucesso: 53.04% | Atropelamento: 5.92% | Colisão: 6.18% | Timeout: 34.86% | Passos: 44.3 | Recompensa: -26.96
+[Algoritmo Genético] Sucesso: 0.02% | Atropelamento: 0.0% | Colisão: 0.0% | Timeout: 99.98% | Passos: 18.0 | Recompensa: -19.88
